@@ -1,6 +1,8 @@
 # KinTrans
 KinTrans: A Transformer-based Reinforcement Learning Framework for Kinase Inhibitor Design with Target Adaptation and Patent Awareness
 
+## Download Required Data
+Download the necessary environment packages and data from the [Zenodo repository](https://doi.org/10.5281/zenodo.20066519).
 ## Install Required Packages
 Use `conda pack` to easily install required packages in your environment.
 ```bash
