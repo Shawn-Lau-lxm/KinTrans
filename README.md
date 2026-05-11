@@ -2,11 +2,7 @@
 KinTrans: A Transformer-based Reinforcement Learning Framework for Kinase Inhibitor Design with Target Adaptation and Patent Awareness
 
 ## Download Required Data
-Download the necessary environment packages and data from the [Zenodo repository](https://doi.org/10.5281/zenodo.20066519
-        
-        
-        
-        ). After downloading, place tar -xzvf in the KinTrans folder and extract it using the following command：
+Download the necessary environment packages and data from the [Zenodo repository](https://doi.org/10.5281/zenodo.20066519). After downloading, place tar -xzvf in the KinTrans folder and extract it using the following command：
 ```bash
 tar -xzvf tar -xzvf
 ```
